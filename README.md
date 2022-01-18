@@ -1,6 +1,6 @@
 # MarketHani
 
-## 🛒JSP 마켓컬리 클론코딩 : MarketHani  
+## 🛒JSP 마켓컬리 클론코딩 : MarketHani 
 
 <br>
 
@@ -51,6 +51,7 @@
     - AJAX를 활용한 ID 중복확인
 
 - 상품목록 / 상품 상세페이지
+    - 제품 후기, 문의게시판
 
 - 장바구니, 주문 / 결제
 
